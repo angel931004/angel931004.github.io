@@ -15,4 +15,11 @@ body {
     font-family: 'Noto Serif TC', sans-serif;
     }
 
-    
+.expedu_icon{
+    color: red;
+}
+
+.expedu_icon:hover{
+    color: white;
+    background-color: red;
+}
