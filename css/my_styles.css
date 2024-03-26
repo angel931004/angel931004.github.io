@@ -1,17 +1,17 @@
 
 .bg-primary{
     background-color: pink !important;
-    background-image: url(../assets/img/lovepik-starry-background-image_500543007.jpg);
+    background-image: url(../assets/img/sky.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 p.redred{
-    color:red;
+    color:white;
     background-color: aqua;
     border: 10px solid blueviolet;
-    background-image: url(../assets/img/lovepik-starry-background-image_500543007.jpg);
+    background-image: url(../assets/img/sky.jpg);
     font-size: 40px;
     text-align: center;
 }
