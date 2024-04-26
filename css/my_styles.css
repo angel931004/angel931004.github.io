@@ -1,7 +1,7 @@
 
 .bg-primary{
     background-color: pink !important;
-    background-image: url(../assets/img/sky.jpg);
+    background-image: url(../assets/img/sky1.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -10,14 +10,18 @@
 p.redred{
     color:white;
     background-color: aqua;
-    border: 10px solid blueviolet;
+    border: 10px solid rgb(133, 26, 232);
     background-image: url(../assets/img/sky.jpg);
     font-size: 40px;
     text-align: center;
 }
 
-.blueblue{
+.pinkpink{
     color: palevioletred;
+}
+
+.blueblue{
+    color: mediumslateblue;
 }
 
 body {
@@ -27,17 +31,33 @@ body {
     font-family: 'Noto Serif TC', sans-serif;
     }
 
+body {
+        background-color: rgb(237, 228, 228);
+    }
+    
+
 .expedu_icon{
-    color: red;
+    color: orchid;
 }
 
 .expedu_icon:hover{
     color: white;
-    background-color: red;
+    background-color: rgb(54, 240, 253);
+}
+
+.overflowtest{
+    background-color: darkgrey;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 30px auto;
+    height: 215px;
+    overflow: scroll;
 }
 
 table {
-    width: 80%;
+    width: 90%;
     }
 
     th{
