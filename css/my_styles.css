@@ -8,12 +8,13 @@
 }
 
 p.redred{
-    color:white;
+    color:rgb(226, 207, 225);
     background-color: aqua;
-    border: 10px solid rgb(133, 26, 232);
-    background-image: url(../assets/img/sky.jpg);
-    font-size: 40px;
+    border: 8px solid rgb(133, 26, 232);
+    background-image: url(../assets/img/sky1.JPG);
+    font-size: 35px;
     text-align: center;
+    background-size: cover;
 }
 
 .pinkpink{
@@ -22,6 +23,10 @@ p.redred{
 
 .blueblue{
     color: rgb(126, 107, 235);
+}
+
+.colorcolor{
+    color: rgb(158, 182, 211);
 }
 
 body {
@@ -68,14 +73,14 @@ table {
         }
 
         tr:nth-child(even) {
-            background-color: rgb(179, 226, 232);
+            background-color: rgb(223, 225, 232);
             }
             tr:nth-child(odd) {
-            background-color: rgb(249, 202, 209) ;
+            background-color: rgb(208, 202, 204) ;
             }
 
             td {
-                border:1px solid #2a5d44;
+                border:2px solid #acafad;
                 } 
 
                 table {
